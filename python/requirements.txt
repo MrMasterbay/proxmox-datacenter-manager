@@ -1,0 +1,10 @@
+Flask
+Flask-JWT-Extended
+Flask-Bcrypt
+Flask-SocketIO
+Flask-Mail
+Flask-Migrate
+Flask-SQLAlchemy
+flask-cors
+flasgger
+eventlet
